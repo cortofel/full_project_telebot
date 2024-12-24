@@ -1,5 +1,4 @@
 import telebot
-from key import TOKEN
 from botLOGIC import gen_pass,gen_emodji,flip_coin
 import time, threading,schedule
 
